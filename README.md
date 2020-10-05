@@ -10,4 +10,4 @@ It is important to appreciate that the essence of this module is internalising t
 
 Whilst we learn about these abstract ideas and concepts it is essential that you make them come to life by applying them back to your own experiences and business environment.
 
-[View the package](https://whitehatlearningproducts.github.io/mod3-BCS)
+[View the package](https://whitehatlearningproducts.github.io/mod3-BCS/)
